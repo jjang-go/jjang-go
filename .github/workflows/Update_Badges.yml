@@ -14,5 +14,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: jjang-go/jjang-go
           COMMIT_MESSAGE: "My commit message to update badges"
-          CREDLY_USER: jjang-go
+          CREDLY_USER: username.jjang-go
           CREDLY_SORT: RECENT
