@@ -65,7 +65,3 @@
       src="https://img.shields.io/badge/tykim9532@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=00ADD8&section=footer">
-</div>
