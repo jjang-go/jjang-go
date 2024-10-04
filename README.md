@@ -59,9 +59,6 @@
 
 <h2 align="center">📫 Contact 📫</h2>
 <div align="center">
-  <a href="https://jjang-go.notion.site/8923632be7d2479f907aaf88108cbebb?pvs=4">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:tykim9532@gmail.com">
     <img
       src="https://img.shields.io/badge/tykim9532@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
